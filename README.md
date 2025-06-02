@@ -25,6 +25,15 @@ Este é um projeto simples de uma calculadora feito com React, utilizando hooks 
 
 ---
 
+## Possíveis melhorias
+
+- Botão de ponto decimal (.)
+- Permitir digitação no teclado além do clique nos botões.
+- Histórico de operações
+- Backspace (←)
+
+---
+
 Qualquer dúvida, sugestão ou contribuição, fique à vontade para abrir uma issue ou pull request!
 
 ---
